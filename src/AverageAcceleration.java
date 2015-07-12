@@ -9,7 +9,7 @@ public class AverageAcceleration {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Enter the time: ");
+        System.out.println("Enter the time testing testing: ");
 
         double t = input.nextDouble();
 
